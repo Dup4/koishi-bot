@@ -21,4 +21,5 @@ apt install -y \
 
 rm -rf /var/lib/apt/lists/*
 
-yarn install --prod
+# due to use register which in dev
+yarn install

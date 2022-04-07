@@ -1895,10 +1895,10 @@ koa@^2.13.4:
     type-is "^1.6.16"
     vary "^1.1.2"
 
-koishi-plugin-capture-website@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/koishi-plugin-capture-website/-/koishi-plugin-capture-website-1.1.2.tgz#f17b3356cb7c2e91ddd2d080fa969e36d91962b6"
-  integrity sha512-GZw+5r14zh4+6YDZMVP+BT/AbZIMV4RFEcrpNweUE4KhHVzVA3NdiwLJSJrk6d6rKcvynVi0+lF6wB0qLsZErg==
+koishi-plugin-capture-website@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/koishi-plugin-capture-website/-/koishi-plugin-capture-website-1.3.0.tgz#a551cf52c00cf5ddb2c58b0739cd06b66604b664"
+  integrity sha512-hCu4dnTF4+xSbAP62D0ESeAbT144ajaAEDb2HI1o5I9SwED0GOE+GYL0iYD3WmQtwfnX2GrNM1Xt1q/63niejA==
   dependencies:
     capture-website "^2.3.0"
 
