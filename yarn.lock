@@ -882,10 +882,9 @@ call-bind@^1.0.0:
     function-bind "^1.1.1"
     get-intrinsic "^1.0.2"
 
-capture-website@^2.3.0:
+"capture-website@github:Dup4/capture-website#b2121327d9696b25efc4d12eeb82a56cc67c82fa":
   version "2.3.0"
-  resolved "https://registry.yarnpkg.com/capture-website/-/capture-website-2.3.0.tgz#3041de9eb0dac172f646cce3deb6f7dca435050d"
-  integrity sha512-HXCUqloLK//3SuoEVPFnSn6gA7ASVLZ4AToNnulLp4/YHQWQZxPFURrQjrLDeMtFsK3f8yN7gPaZZfM4xk50/g==
+  resolved "https://codeload.github.com/Dup4/capture-website/tar.gz/b2121327d9696b25efc4d12eeb82a56cc67c82fa"
   dependencies:
     "@cliqz/adblocker-puppeteer" "^1.23.2"
     file-url "^4.0.0"
@@ -1876,12 +1875,12 @@ koa@^2.13.4:
     type-is "^1.6.16"
     vary "^1.1.2"
 
-koishi-plugin-capture-website@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/koishi-plugin-capture-website/-/koishi-plugin-capture-website-1.5.0.tgz#6037cb34d102e4f834ad4c48ae918127cb5a8ae5"
-  integrity sha512-yftl7LvSPWOBpx+BkaF8w5kF2I98X/0Dp4JoOGF/o/u02OYDYPcFDxpwdOr2LhCQBZqn+VpSRKBNQO3tA9bMeg==
+koishi-plugin-capture-website@^1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/koishi-plugin-capture-website/-/koishi-plugin-capture-website-1.5.1.tgz#ab2ced4433537c5907a703790c08c8cc0a826db1"
+  integrity sha512-OyIb7PO7ik7qMQyN9c/Ql1vptE57butlJYjhfnMRNR0OZ3+5w96uJMjcsjlvwIhgQp/8RvayuOpiKBBSC8qjjg==
   dependencies:
-    capture-website "^2.3.0"
+    capture-website "github:Dup4/capture-website#b2121327d9696b25efc4d12eeb82a56cc67c82fa"
     chrome-finder "^1.0.7"
 
 koishi-plugin-oeis@2.0.2:
