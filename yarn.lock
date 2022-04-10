@@ -1883,20 +1883,20 @@ koishi-plugin-capture-website@^1.5.4:
     capture-website "github:Dup4/capture-website#b2121327d9696b25efc4d12eeb82a56cc67c82fa"
     chrome-finder "^1.0.7"
 
-koishi-plugin-gfm@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/koishi-plugin-gfm/-/koishi-plugin-gfm-1.0.0.tgz#f30d7c2c89e757a7bf6859da2c43e60257ca1815"
-  integrity sha512-V5r/PN4cwoygCbVV9RO349+2YAUw15xwfDziRA40ZnLpeGJgptpeWM57CTEyz1LC2CsdrvCxF+3hHyTooTyQtA==
+koishi-plugin-gfm@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/koishi-plugin-gfm/-/koishi-plugin-gfm-1.0.1.tgz#3a6e6fac05666d73922a44084a83d610061cbaec"
+  integrity sha512-LbkYN02nRAcWuZ+heUQ5ATFx1L6iChylMwGUgfWSN2Yn0Dzphagb++0n6tCB771/cwmlMO0vE+8ANyfj6H2BFA==
   dependencies:
     koishi-plugin-capture-website "^1.5.4"
     querystring "^0.2.1"
 
-koishi-plugin-oeis@2.0.2:
+koishi-plugin-oeis@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/koishi-plugin-oeis/-/koishi-plugin-oeis-2.0.2.tgz#1b890c7795c06761db1beb40013bce2d9a8ddbbe"
   integrity sha512-Tp/nDPZFhirEKyULrMW01JSF/K8aHng6+k7c+W8xuSNmbSFjZ1SN+3kvGQn37eEQAHcGE03EEF+Q6uK232sX2Q==
 
-koishi-plugin-tex@1.1.0:
+koishi-plugin-tex@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/koishi-plugin-tex/-/koishi-plugin-tex-1.1.0.tgz#64d2313a1b5f43e3313fb0b757323165b2cb868e"
   integrity sha512-FbXtItZ/tjV9GfCluI5PpXYDB5XRMm0Rk/R95/Zj4R8dNR0TZtlZhDEPvGZ2WViUWb0Dl3/qWjil9PRVrOhVoA==
