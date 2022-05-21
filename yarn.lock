@@ -1883,6 +1883,14 @@ koishi-plugin-capture-website@^1.5.4:
     capture-website "github:Dup4/capture-website#b2121327d9696b25efc4d12eeb82a56cc67c82fa"
     chrome-finder "^1.0.7"
 
+koishi-plugin-capture-website@^1.5.5:
+  version "1.5.5"
+  resolved "https://registry.yarnpkg.com/koishi-plugin-capture-website/-/koishi-plugin-capture-website-1.5.5.tgz#869c795cfeea40e8869b75a5bfbcfd1b44713aa6"
+  integrity sha512-UPKdEjm3JZH4VvqOrOf+R8FjUiUvB3h26aW+Pzl5vivHFMUUBIC+1l9bkyPDoUv+lGafEPWEXNr04yUxJav3mA==
+  dependencies:
+    capture-website "github:Dup4/capture-website#b2121327d9696b25efc4d12eeb82a56cc67c82fa"
+    chrome-finder "^1.0.7"
+
 koishi-plugin-gfm@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/koishi-plugin-gfm/-/koishi-plugin-gfm-1.0.1.tgz#3a6e6fac05666d73922a44084a83d610061cbaec"
